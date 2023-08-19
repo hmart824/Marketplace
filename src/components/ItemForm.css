@@ -1,0 +1,6 @@
+/* .form-control{
+    border: 2px solid green;
+} */
+.form-control label{
+    display: block;
+}
